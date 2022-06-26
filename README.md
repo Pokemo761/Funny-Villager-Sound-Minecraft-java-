@@ -47,6 +47,27 @@ minecraft/sounds/mob/villager/yes2.ogg
 minecraft/sounds/mob/villager/yes3.ogg
 
 
+#Video
+
+
+
+
+#How to add it ?
+
+
+Download the resource pack to your computer. The resource pack will download to your computer as a https://github.com/Pokemo761/Funny-Villager-Sound-Minecraft-java-/archive/refs/heads/main.zip 
+
+Within the Minecraft menu screen, go to Options > Resource Packs.
+
+Minecraft Resource Packs
+Drag the expanded file you downloaded from your computer over to the Available Resource Packs file area within Minecraft.
+
+Dragging resource pack from desktop
+The new resource pack should appear in the menu. Select Open Resource Pack Folder to activate the pack.
+
+Open Resource Pack Folder button
+
+
 
 
 
